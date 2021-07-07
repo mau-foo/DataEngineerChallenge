@@ -1,0 +1,5 @@
+Need to have Spark installed on your machine
+
+Paste command below into terminal to run script (use :q to close spark shell after script is done running)
+
+spark-shell -i PayPay_Challenge.scala
